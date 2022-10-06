@@ -1,5 +1,6 @@
-### Hi there 👋
 
+### Hi there 👋
+Script G2A Timezone Glitch AUTO-UPDATE !
 <!--
 **G2AScripts/G2ascripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
