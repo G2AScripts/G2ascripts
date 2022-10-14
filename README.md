@@ -1,12 +1,7 @@
 
 ### Hi there 👋
 Script G2A Timezone Glitch AUTO-UPDATE !
-1-Install Tampermonkey
-2-Add New Script
-3-Copy Script Timezone
-4-Save
-5-go to g2a.com 
-6-Enjoy
+
 <!--
 **G2AScripts/G2ascripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
